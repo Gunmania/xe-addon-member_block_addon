@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon version="0.2">
+    <title xml:lang="ko">회원 차단 애드온</title>
+    <description xml:lang="ko">개별 회원이 마음에 들지 않는 특정 회원을 차단할 수 있도록 하는 애드온.</description>
+    <version>0.1</version>
+    <date>2015-01-12</date>
+    <author email_address="d.gunmania@gmail.com" link="http://gunmania.kr">
+		<name xml:lang="ko">Gunmania</name>
+	</author> 
+</addon>
