@@ -1,8 +1,5 @@
 <?php
 	if(!defined("__XE__")) exit();
-	
-	if($called_position == '') {
-	}
 
 	if($called_position == 'after_module_proc') {
 		if(Context::get('document_list') && !Context::get('document_srl')) {
